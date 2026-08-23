@@ -1,2 +1,25 @@
 # London Duct Cleaning
-HVAC services in Ontario.
+
+> London Duct Cleaning is a local HVAC company serving London, Middlesex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 708-8216  |  Email: contact@londonductcleaning.ca  |  Website: https://londonductcleaning.ca
+
+## Key pages
+
+- [Home](https://londonductcleaning.ca/): London Duct Cleaning homepage with service overview and FAQ
+- [About](https://londonductcleaning.ca/about/): About the company and service area
+- [Contact](https://londonductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://londonductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in London, Ontario
+- [Dryer Vent Cleaning](https://londonductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in London, Ontario
+- [Furnace & AC Cleaning](https://londonductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in London, Ontario
+- [HRV & Ventilation Cleaning](https://londonductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in London, Ontario
+- [Duct Sanitizing & Deodorizing](https://londonductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in London, Ontario
+- [Duct Sealing & Repair](https://londonductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in London, Ontario
+- [Commercial Duct Cleaning](https://londonductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in London, Ontario
+
+## FAQ
+
+Common questions about HVAC service in London are answered on the homepage.
